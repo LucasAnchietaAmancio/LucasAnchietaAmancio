@@ -46,7 +46,7 @@
 <h2 align="left">📫 Contato</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a><br>
-  ✉️ E-mail: <a href="mailto:lucas@seudominio.dev">lucas@seudominio.dev</a><br>
-  🌐 Portfólio: <a href="https://anchieta.dev" target="_blank">anchieta.dev</a>
+  <a href="https://www.linkedin.com/in/lucas-anchieta-5b1758242/" target="_blank">LinkedIn</a><br>
+  ✉️ E-mail: <a href="mailto:lucasanchieta1212@gmail.com">lucasanchieta1212@gmail.com</a><br>
+  🌐 Portfólio: <a href="https://anchieta.vercel.app/" target="_blank">anchieta.dev</a>
 </p>
