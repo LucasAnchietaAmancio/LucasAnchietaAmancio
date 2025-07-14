@@ -43,14 +43,10 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">📫 Contato</h2>
 
-###
-
-<div align="left">
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- ✉️ E-mail: [lucas@seudominio.dev](mailto:lucas@seudominio.dev)  
-- 🌐 Portfólio: [anchieta.dev](https://anchieta.dev)
-</div>
-
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a><br>
+  ✉️ E-mail: <a href="mailto:lucas@seudominio.dev">lucas@seudominio.dev</a><br>
+  🌐 Portfólio: <a href="https://anchieta.dev" target="_blank">anchieta.dev</a>
+</p>
