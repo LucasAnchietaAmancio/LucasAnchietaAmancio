@@ -53,13 +53,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAnchietaAmancio&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="stats card" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAnchietaAmancio&theme=github-dark-blue&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake-dark.svg" alt="snake animation" />
 </div>
