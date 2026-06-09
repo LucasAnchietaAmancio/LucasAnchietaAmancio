@@ -3,54 +3,59 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev" height="60" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="60" alt="postgres logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/lucas-anchieta-5b1758242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
+
   <a href="mailto:lucas.anchieta@anvratech.com.br" target="_blank">
-    <img src="https://shields.io" height="25" alt="email logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo" />
   </a>
+
   <a href="mailto:lucas.anchieta@anvratech.com.br" target="_blank">
-    <img src="https://shields.io" height="25" alt="outlook logo" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="outlook logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://vercel.app" height="150" alt="stats card" />
-  <img src="https://demolab.com" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAnchietaAmancio&show_icons=true&theme=dark" height="150" alt="stats card" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAnchietaAmancio&theme=dark" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="pacman contribution graph" src="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg">
+
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg">
   </picture>
 </div>
