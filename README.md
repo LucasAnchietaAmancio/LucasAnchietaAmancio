@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
@@ -22,6 +24,14 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
 </div>
 
 ###
