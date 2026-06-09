@@ -43,19 +43,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAnchietaAmancio&show_icons=true&theme=dark" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAnchietaAmancio&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="stats card" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAnchietaAmancio&theme=dark" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAnchietaAmancio&theme=github-dark-blue&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg">
-
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/LucasAnchietaAmancio/LucasAnchietaAmancio/output/snake.svg" alt="snake animation" />
 </div>
